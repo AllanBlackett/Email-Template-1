@@ -1,2 +1,2 @@
-# Email-Template--1
+# Email Template #1
 Responsive HTML email template
